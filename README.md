@@ -8,9 +8,9 @@ The Hack Club community of UEMK helps you pave a path towards dexterous project 
 
 We think learning to code is uniquely like gaining a superpower: it converts you from a _consumer_ to a _creator_, turning your computer into a tool for creation. If you’re reading this, you can learn to build anything—there’s never been a better time for making.
 
-We want an inclusive space on the internet where people are making interesting things with code, every week. In our online Slack(Invitation will be sent by filling up the google form on our website) (With more than 10K student members), you can ask coding questions, you’ll meet amazing friends, share projects you’re building, and so much more. Most members start with little to no coding experience, join our Slack, build projects of their own, attend & later organize [hackathons](https://hackathons.hackclub.com).
+We want an inclusive space on the internet where people are making interesting things with code, every week. In our online Slack (Invitation will be sent by filling up the google form on our website) (With more than 10K student members), you can ask coding questions, you’ll meet amazing friends, share projects you’re building, and so much more. Most members start with little to no coding experience, join our Slack, build projects of their own, attend & later organize [hackathons](#).
 
-Hack Club was founded by [a teenager](https://zachlatta.com) who dropped out of high school because the school system wasn’t working. We’re an entirely open source organization. It’s backed by everyone from [Elon Musk](https://hackclub.com/elon/) to GitHub co-founder Tom Preston-Werner.
+We’re an entirely open source organization. It’s backed by everyone from [Elon Musk](https://hackclub.com/elon/) to GitHub co-founder Tom Preston-Werner.
 
 ## Quick Hack Club links
 
