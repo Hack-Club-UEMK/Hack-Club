@@ -14,12 +14,12 @@ We’re an entirely open source organization. It’s backed by everyone from [El
 
 ## Quick Hack Club links
 
-| Action                          | Link                                 |
-| ------------------------------- | ------------------------------------ |
-| See our workshops               | <https://workshops.hackclub.com/>    |
-| See our contribution guidelines | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
-| Read our code of conduct        | <https://hackclub.com/conduct/>      |
-| Follow us on LinkedIn           | <ADD LINK>                           |
+| Action                          | Link                                             |
+| ------------------------------- | -------------------------------------------------|
+| See our workshops               | <https://workshops.hackclub.com/>                |
+| See our contribution guidelines | [`CONTRIBUTING.md`](CONTRIBUTING.md)             |
+| Read our code of conduct        | <https://hackclub.com/conduct/>                  |
+| Follow us on LinkedIn           | <https://www.linkedin.com/company/hackclubuemk/> |
 
 ## Contributing to our [Workshops](https://workshops.hackclub.com/)
 
