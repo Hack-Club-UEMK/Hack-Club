@@ -34,8 +34,8 @@ If you need any help, please contact us at hackclubuemk@gmail.com or on our [Sla
 5. Name the branch something like `fixes-xxx-issue` or `add-xxx-feature` where `xxx` is a short description of the changes or feature you are adding.
 6. Once your code is ready, submit a pull request from your branch to Hack Club's `main` branch. We'll do a quick review and give you feedback.
 
-[0]: https://github.com/hackclub/hackclub/issues
-[1]: https://github.com/hackclub/hackclub/issues/new
+[0]: https://github.com/Hack-Club-UEMK/Hack-Club/issues
+[1]: https://github.com/Hack-Club-UEMK/Hack-Club/issues/new
 [2]: https://github.com/hackclub/hackclub/labels/first-timers-only
 [3]: https://help.github.com/articles/fork-a-repo/
 [4]: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
