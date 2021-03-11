@@ -40,6 +40,3 @@ If you need any help, please contact us at hackclubuemk@gmail.com or on our [Sla
 [3]: https://help.github.com/articles/fork-a-repo/
 [4]: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 
-## License
-
-TL;DR: All content is released under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. All code is released under the [MIT License](MIT_LICENSE). For the license's full text and attributions, please see [`LICENSE`](LICENSE).
