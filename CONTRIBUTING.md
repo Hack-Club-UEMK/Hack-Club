@@ -2,7 +2,7 @@
 
 This document contains a set of guidelines which any contributions to _any_ Hack Club repository must follow.
 
-[If you disagree with something here, you should open up an issue to discuss making a change!](https://github.com/hackclub/hackclub/issues/new)
+[If you disagree with something here, you should open up an issue to discuss making a change!](https://github.com/Hack-Club-UEMK/Hack-Club/issues/new)
 
 ## Table of Contents
 
