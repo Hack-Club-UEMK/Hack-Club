@@ -23,7 +23,7 @@ We’re an entirely open source organization. It’s backed by everyone from [El
 
 ## Contributing to our [Workshops](https://workshops.hackclub.com/)
 
-Contributions are welcome!
+Contributions are always welcome!
 
 If you need any help, please contact us at hackclubuemk@gmail.com or the people associated with your university club.
 
