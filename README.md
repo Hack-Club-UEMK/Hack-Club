@@ -1,6 +1,6 @@
 # <img src="https://assets.hackclub.com/log/intro.png" width="100%" alt="Welcome! You’ve stumbled across Hack Club">
 
-Hack Club UEMK is a university club which represents University of Engineering & Management, Kolkata under the [**Hack Club**](https://hackclub.com/) community. This repository is where we store our [Workshops](#), as well as our [Code of Conduct](https://hackclub.com/conduct/).
+Hack Club UEMK is a university club which represents University of Engineering & Management, Kolkata under the [**Hack Club**](https://hackclub.com/) community.
 
 The Hack Club community of UEMK helps you pave a path towards dexterous project conduct, teamwork and skill management. Contribute in projects with the rest of the teammates, and learn the beauty of code.
 
