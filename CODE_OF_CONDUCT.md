@@ -5,7 +5,7 @@
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
 - Don't be destructive or inflammatory.
-- If you encounter an issue, please mail <conduct@hackclub.com>.
+- If you encounter an issue, feel free to talk to your university's hackclub leaders.
 
 ## Why have a Code of Conduct?
 
